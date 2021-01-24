@@ -1,5 +1,3 @@
-# PyLabs
+# C
 
-Python Learning Lab
-
-## 
+C
